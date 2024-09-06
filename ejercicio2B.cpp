@@ -1,3 +1,8 @@
+/*
+- Jose Gerardo Ruiz García - 23719
+- Humberto Alexander de la Cruz Chanchavac - 23735
+*/
+
 #include <pthread.h>
 #include <stdio.h>
 #include <stdlib.h>
